@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ward2hanso121
+- 👀 I’m interested in Data science. I’m currently learning SQL.
+- 🌱 Passionate about using data to inform decisions and drive business growth.
